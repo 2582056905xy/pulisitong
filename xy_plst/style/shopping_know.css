@@ -1,0 +1,23 @@
+/* 内容 */
+
+.content{width:100%; height:865px; }
+.main{width:1004px; background:#ffffff; margin:15px auto;}
+.content h1{width:1004px; height:80px; font-size:26px; color:#040404; margin:0 auto;}
+.content h1 a{display:block; height:30px; margin-top:35px; margin-left:35px;  position:absolute;}
+.content h3{width:955px; font-size:18px; color:#000000; margin:0 auto;}
+.content_flow{width:1004px; height:115px; margin:0 auto;}
+.content_flow ul{margin-left:40px; margin-top:10px;}
+.content_flow ul li{float:left; width:248px; height:68px; line-height:68px; text-align:center;}
+.content_flow ul li a{font-size:16px; color:#010000;}
+.content_flow .select{width:248px; background:url(../images/select.gif); }
+.content_flow .refer{width:216px; background:url(../images/refer.gif); }
+.content_flow .succeed{width:225px; background:url(../images/succeed.gif);}
+
+
+
+.content_explain{width:1004px; height:628px; margin:10px auto;}
+.content_explain ul{width:918px; height:195px; margin-left:35px; margin-top:8px;}
+.content_explain ul span{display:block; height:40px; line-height:40px; font-size:17px; color:#6b6b6b;}
+.content_explain ul p{height:48px; line-height:24px; color:#646464; font-size:12px; letter-spacing:2px;}
+
+

@@ -1,0 +1,26 @@
+/* 内容 */
+.content{ width:1004px; min-height:966px; background:#fff; margin:24px auto; border:1px solid #f2f2f2; }
+.My_list_title{ width:985px; height:43px; font-size:32px; color:#0a0a0a; padding-top:34px;
+ font-weight:bold; margin:0 auto; position:relative; }
+ .My_list_title img{ position:absolute; top:-5px; left:880px;}
+ .list_infor1, .list_infor2{ height:420px; width:985px; border:2px solid #e7e7e7; background:#f7f5f6; }
+ .list_infor1{  margin:0 auto; }
+ .list_infor2{ margin:20px auto; }
+ .list_infor_number{ width:955px; height:50px; line-height:51px; font-size:20px; font-weight:bold; padding-left:25px; color:#010000; border-bottom:1px solid #efedee; }
+.list_infor_number span{ font-size:20px; color:#251e7b; font-weight:normal; }
+.payment_list{ width:948px; height:359px; border-top:1px solid #f7f7f7; border-left:2px solid #f6f4f5;  border-right:1px solid #f7f5f6; background:#fff; margin:0 auto;
+ padding:0px 12px 0px 12px; }
+.list_order{ height:55px; width:948px; line-height:55px; font-size:20px; font-weight:bold; color:#070707; border-bottom:1px solid #efefef; }
+.list_order p{ float:left; margin-right:270px; }
+.list_order span{ font-weight:normal; }
+.list_order_span1{ color:#d7002b; }
+.list_order_span2{ color:#404040; }
+.order_form{ height:300px; width:948px;}
+.order_form p{ height:30px; padding-top:22px; color:#040404; font-size:16px; }
+.order_form table{ height:222px; width:948px; font-size:12px; color:#040404;
+ border:1px solid #e6e4e5; }
+
+
+
+
+

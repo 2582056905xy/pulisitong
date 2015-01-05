@@ -1,0 +1,20 @@
+body{ background:#f3f3f3; }
+/* 头部 */
+.top{ width:100%; height:26px; background:url(../images/topbg.gif) repeat-x; }
+.top_infor{ width:984px; height:26px; line-height:26px; font-size:12px; padding-left:20px; margin:0 auto; color:#676767;}
+.top_infor div{ float:left; width:130px; }
+.top_infor div span{ margin:0px 12px 0px 10px;}
+.top_infor a{ color:#676767; }
+.top_infor a:hover{ text-decoration:underline; }
+.top_infor ul{ float:right; width:180px; height:26px;  }
+.top_infor ul li{ width:90px; float:left; text-align:center;}
+.top_logo{ width:1004px; height:142px; margin:0 auto; }
+/* 导航 */
+.nav{ width:100%; height:41px; background:url(../images/nav.gif) repeat-x; }
+.nav_infor_warp{ width:1004px; height:35px; padding-top:6px; margin:0 auto;}
+.nav_infor{ width:480px; height:35px; float:left;}
+.nav_infor li{ float:left; width:158px; height:35px; line-height:35px; text-align:center; }
+.nav_infor li a{ color:#fffafd; display:block; }
+.nav_infor li a:hover{ background:#2594e6; }
+.aboutcomp{ position:relative;  }
+.aboutcomp img{ position:absolute; top:-4px; right:5px;}

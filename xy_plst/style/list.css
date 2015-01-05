@@ -1,0 +1,74 @@
+
+/* 内容 */
+.content{ width:1004px; min-height:1230px; background:#fff; margin:8px auto; }
+ /* 商品下单 */ 
+.form_tab{ width:990px; padding-left:14px; min-height:586px; /*高度自适应*/ }
+.list_step{  height:68px; width:977px; padding-top:36px; }
+.list_step h1{ width:262px; height:68px; font-size:28px; float:left; }
+.step{ width:661px; height:30px; float:left; margin-top:5px;}
+.step li{float:left;}
+.list_infor{ height:481px; width:978px; }
+table{ width:978px; height:403px; font-size:12px; color:#0c0a0b; overflow:hidden; border:1px solid #f2f2f2; }
+.model{ width:190px; }
+.size{ width:136px; }
+.guige{ width:206px; }
+.number{ 180px; } 
+.total{ width:136px;  }
+.operation{ width:129px; }
+.tab_level1{ height:40px; background:#f7f5f6; }
+.tab_level1 th{ font-weight:bold;}
+.tab_level1 th input{ margin-left:19px; float:left; *margin-top:-5px!important; }
+.tab_level1 th span{  float:left; }
+.checkall{ margin-left:9px; margin-right:25px; font-weight:normal;}
+.tab_level2{ height:88px; border-bottom:1px solid #f6f6f6; }
+.tab_level2 td{ text-align:center;}
+.tab_level2 td p{ float:left; width:14px; height:14px; margin-right:21px; margin-left:30px; margin-top:25px; }
+.tab_level2 td a{ color:#0c0a0b;}
+.tab_level2 td a:hover{ text-decoration:underline; }
+.tab_level2 td dl{ float:left;}
+.txt{ height:32px; width:58px; line-height:32px; border:1px solid #a6a4a5; display:block; float:left; margin-left:30px;}
+.add_redu{ width:18px; height:32px; float:left; margin-left:4px;}
+.add_redu span{ width:18px; height:14px; display:block; cursor:pointer;  }
+.btn_add{background:url(../images/add.gif) no-repeat; }
+.btn_reduce{background:url(../images/reduce.gif) no-repeat; margin-top:5px; }
+.jian{ display:block; float:left; width:28px; height:32px; text-align:center; color:#aba8bd; line-height:32px; }
+.price span{   width:136px; height:18px; text-align:center; display:block;}
+.yunfei{ color:#bebec0; }
+.move a{ color:#2661a3; }
+.move a:hover{  color:red; }
+.price_total{ width:978px; height:71px; background:#f7f5f6; font-size:12px; margin-top:4px; }
+.price_total_infor{ float:right; height:71px; width:573px;}
+.price_total_infor p{ float:left; margin-right:50px; }
+.four{ color:#fb924e; font-size:14px; }
+.price_total_yuan1{  color:#d70619; font-size:16px;}
+.price_total_yuan2{  color:#e9001a; font-size:20px; font-weight:bold; }
+.price_total_p1{ margin-top:22px; }
+.price_total_p2{ margin-top:18px; }
+/* 地址 */
+.infor_addr{ width:1004px; height:545px; margin-top:17px; }
+.infor_addr_infor{ width:980px; height:545px;border:1px solid #e3e3e3;margin:0 auto; }
+.infor_addr_title{ width:965px; height:32px; font-size:16px; line-height:32px; font-weight:bold; color:#323232; background:#f7f7f7; padding-left:15px; border-bottom:1px solid #e4e4e4;  }
+.infor_addr_title span{ font-size:12px; color:#23b6a6; font-weight:normal; margin-left:10px; }
+.infor_addr_form1,.infor_addr_form2{width:980px; padding-top:16px; font-size:12px; border-bottom:1px solid #eee;}
+.infor_addr_form1{ height:237px;  }
+.infor_addr_form1 div{ height:28px; line-height:28px; width:595px; }
+.infor_addr_form1_tp{ margin-top:18px;}
+.infor_addr_form1 label{ width:100px; height:28px; display:block; float:left; text-align:right; }
+.infor_addr_form1 label span{ color:#d40006; }
+.infor_addr_form1_tp a{ margin-left:5px; color:#1bb498;}
+.infor_addr_form1_tp a:hover{ text-decoration:underline;}
+.infor_addr_form1_selct select{ border:1px solid #cdcdcd; width:138px; height:20px;
+  line-height:20px; margin-right:20px; }
+.infor_addr_form1 div input{ display:block; height:28px; line-height:28px; float:left; border:1px solid #cdcdcd; }
+.getaddr{ width:480px; }
+.wdsm{ width:130px; }
+.infor_addr_form2{ height:133px; }
+.ft14{ width:110px; height:20px; line-height:20px; font-size:14px; padding-left:16px;}
+.infor_addr_form2_choose{ height:100px; width:405px; padding-left:25px; font-size:12px;}
+.infor_addr_form2_choose p{ margin-top:10px; }
+.infor_addr_form3{ height:74px; width:964px; padding:16px 0px 0px 16px; font-size:12px; }
+.infor_addr_form3 p{ color:#000; font-size:14px; }
+.infor_addr_form3 p span{ color:#a2a2a2; font-size:12px; }
+.infor_addr_form3 input{ height:30px; width:410px; line-height:30px; display:block; margin-top:12px;   border:1px solid #ccc;}
+.foot_sub{ height:67px; width:980px; margin:0 auto; padding-top:13px;  }
+.foot_sub input{ display:block; float:right; width:178px; height:47px; background:url(../images/sub.gif) no-repeat; border:none;}

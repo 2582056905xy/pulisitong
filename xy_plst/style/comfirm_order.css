@@ -1,0 +1,43 @@
+.content{ height:592px; width:1004px; background:#fff; margin:10px auto;}
+.list_step{  height:68px; width:977px; padding-top:36px; }
+.list_step h1{ width:247px; height:68px; font-size:28px; padding-left:30px; float:left; }
+.step{ width:686px; height:30px; float:left; margin-top:5px;}
+.step li{float:left;}
+/* 订单详情 */
+.order_form,.order_form table{ width:980px; margin:0 auto;  }
+.order_form_tbwp{ min-height:287px; width:980px; border:1px solid #e6e4e5;}
+.order_form{  height:453px;}
+.order_form table{  font-size:12px; height:222px; color:#040404; border:none;}
+
+/*  */
+.price_total{ width:980px; height:65px; background:#f7f5f6; margin-top:3px; }
+.price_total_infor{ float:right; height:65px; width:350px;}
+.price_total_infor p{ float:left; font-size:12px;color:#464241; }
+.price_total_infor_p1{  margin-right:40px;  margin-top:15px; }
+.price_total_infor_p1 span{ font-size:16px; color:#ff975d; }
+.price_total_infor_p2 span{ display:block; float:left; }
+.price_total_infor_span1{  margin-top:20px;}
+.price_total_infor_span2{ font-size:25px; color:#e80115; margin-top:15px; font-weight:bold; }
+.order_form_footer{ height:145px; width:970px; margin:0 auto; padding:25px 0px 0px 10px; }
+.shop_addr{ width:630px; height:95px; font-size:12px;color:#1f1f1f; float:left; }
+.shop_addr_wuliu{ color:#656565; font-weight:bold; margin-bottom:7px; }
+.shop_addr_peis,.shop_addr_time{ line-height:21px; }
+.shop_addr_peis span,.shop_addr_time span{ color:#a0a0a0; }
+.form_sub{  width:375px; height:47px; float:right;}
+.form_sub a,.form_sub input{ display:block; float:left; height:47px; }
+.form_sub a{ width:174px; margin-right:12px; background:url(../images/return.gif) no-repeat; }
+.form_sub input{ width:177px; border:none; background:url(../images/comfirm.gif) no-repeat; }
+
+/* 弹出框 */
+#check_order{ height:332px; width:495px;  background:#fff; position:absolute; }
+.check_order_header{ height:43px; width:495px; background:#f7f7f7; }
+.check_order_header a{ width:143px; height:43px; display:block; float:left; }
+.check_order_header span{ width:19px; height:14px; display:block; float:right; margin:12px 6px 0px 0px; }
+.check_order_infor{ width:495px; height:218px; padding-top:30px; }
+.check_order_infor p{ text-align:center; }
+.check_order_tip{ color:#dc454e; font-size:27px; font-weight:bold; height:73px; line-height:73px;}
+.check_order_sm{ line-height:33px; color:#2f2f2f; }
+.check_order_ft{ height:39px; width:483px; padding-left:12px; }
+.check_order_ft p{ margin-top:21px; font-size:12px; color:#050505; float:left; }
+.check_order_ft p a{ color:#0d70ab}
+#exit{ display:block; float:right; width:68px; height:32px; margin-right:13px; }
